@@ -33,7 +33,7 @@
       margin: 40px auto;
       max-width: 420px;
       border-radius: 16px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+      box-shadow: 0 15px 25px rgba(0,0,0,0.15);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
@@ -103,4 +103,5 @@
       background: linear-gradient(90deg, #388e3c, #4caf50);
       transform: scale(1.05);
       box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+
     }
