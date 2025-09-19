@@ -31,9 +31,9 @@
       background: #ffffff;
       padding: 30px;
       margin: 40px auto;
-      max-width: 420px;
+      max-width: 480px;
       border-radius: 16px;
-      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
@@ -105,4 +105,5 @@
       box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 
     }
+
 
